@@ -4,9 +4,9 @@ Flask==0.12
 itsdangerous==0.24
 Jinja2==2.9.5
 MarkupSafe==1.0
+numpy==1.11.3+mkl
 matplotlib==1.0.1
 nltk==3.2.1
-numpy==1.11.3+mkl
 requests==2.12.4
 scikit-learn==0.15.2
 scipy==0.18.1
